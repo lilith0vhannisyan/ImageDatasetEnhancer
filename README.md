@@ -5,7 +5,7 @@
 First, clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone [https://github.com/your-username/your-repository.git](https://github.com/lilith0vhannisyan/ImageDatasetEnhancer.git)
 ```
 
 ## Navigate to the Project Directory
