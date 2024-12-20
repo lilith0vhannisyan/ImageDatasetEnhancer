@@ -30,3 +30,7 @@ After installing the dependencies, execute the application with Streamlit:
 
 ```bash
 streamlit run app.py
+
+## Dataset Preparation Before Uploading in App
+
+Please ensure your dataset file is compressed into a ZIP format before uploading it to the app.
