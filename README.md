@@ -30,6 +30,7 @@ After installing the dependencies, execute the application with Streamlit:
 
 ```bash
 streamlit run app.py
+```
 
 ## Dataset Preparation Before Uploading in App
 
