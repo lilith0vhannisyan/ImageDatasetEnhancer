@@ -5,7 +5,7 @@
 First, clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/lilith0vhannisyan/ImageDatasetEnhancer.git
 ```
 
 ## Navigate to the Project Directory
@@ -30,3 +30,8 @@ After installing the dependencies, execute the application with Streamlit:
 
 ```bash
 streamlit run app.py
+```
+
+## Dataset Preparation Before Uploading in App
+
+Please ensure your dataset file is compressed into a ZIP format before uploading it to the app.
