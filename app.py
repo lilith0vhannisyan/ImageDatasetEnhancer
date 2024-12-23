@@ -132,10 +132,6 @@ def create_zip(images_folder, annotations_file):
     zip_buffer.seek(0)
     return zip_buffer
 
-# ----------------------------------------
-# Function to Plot SSIM and PSNR Scores
-# (Removed as per request)
-# ----------------------------------------
 
 # ----------------------------------------
 # Streamlit User Interface
@@ -386,15 +382,6 @@ def main():
                         mime="application/zip"
                     )
 
-                    # ----------------------------------------
-                    # Removed Sections:
-                    # - SSIM and PSNR Analysis
-                    # - Dataset Statistics
-                    # - Image Count Comparison
-                    # - Annotation Count per Category
-                    # - Sample Image Comparisons
-                    # - Pixel Intensity Histograms
-                    # ----------------------------------------
 
 if __name__ == "__main__":
     main()
